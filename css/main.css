@@ -1,0 +1,48 @@
+/* @font-face {
+  font-family: 'BBadr';
+  src: url('fonts/fonts/BBadr.eot?#') format('eot'),
+       url('fonts/fonts/BBadr.woff') format('woff'),
+       url('fonts/fonts/BBadr.ttf') format('truetype');
+  font-style:normal;
+  font-weight:normal;
+}
+
+body{
+    font-family:BBadr;
+} */
+
+/* <style type="text/css" media="screen, print">
+  @font-face {
+      font-family: 'BYas’;
+      src:url('fonts/fonts/BYas.eot?#’) format(‘eot’),
+            url('fonts/fonts/BYas.woff') format('woff'),
+            url(‘fonts/fonts/BYas.ttf’) format(‘truetype’);
+  }
+  class1 { font-family: "BYas", Tahoma }
+</style> */
+
+
+body{
+  padding-top: 50px;
+}
+
+#footer{
+  margin-top:50px;
+
+}
+
+.img-thumb{
+  height : 150px ;
+  width : 150px ; ///this should be make ok the auto problem
+
+}
+
+.icon-button {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    outline: none;
+    border: 0;
+    background: transparent;
+    padding-top: 15px;
+}
